@@ -7,7 +7,7 @@ function myfunc(){
 }
 
 function myfunc2(){
-	document.getElementById("demo").innerHTML="코딩변환";
+	document.getElementById("demo").innerHTML="코딩변환되돌리기";
 	document.getElementById("demo2").style.display='none';
 }
 
